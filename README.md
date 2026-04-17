@@ -65,13 +65,14 @@ lib/
 
 ### Screenshots
 
-<img src="Smulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.13.png" alt="onboarding1" width="500">
-
 <img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 49 13" src="https://github.com/user-attachments/assets/48aff26a-e15b-493d-aac3-2c0fa7d04e22" />
 
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 49 19" src="https://github.com/user-attachments/assets/18062e73-6dbd-43b3-8f8a-8b0489443dff" />
 
-![onboarding1](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.13.png>)
-![Onboarding2](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.19.png>)
-![Explore](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.51.52.png>)
-![Listing](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.42.png>)
-![Profile](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.50.01.png>)
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 49 30" src="https://github.com/user-attachments/assets/2ba5ff0b-e9ec-425c-889c-de3c15fb9f42" />
+
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 49 42" src="https://github.com/user-attachments/assets/9b44b20a-f41b-48cd-b490-948496d07fe7" />
+
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 50 01" src="https://github.com/user-attachments/assets/11a1f269-464b-45f4-8fce-1ace35a9aaf4" />
+
+
