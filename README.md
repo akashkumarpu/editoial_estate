@@ -67,6 +67,9 @@ lib/
 
 <img src="Smulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.13.png" alt="onboarding1" width="500">
 
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 49 13" src="https://github.com/user-attachments/assets/48aff26a-e15b-493d-aac3-2c0fa7d04e22" />
+
+
 ![onboarding1](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.13.png>)
 ![Onboarding2](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.19.png>)
 ![Explore](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.51.52.png>)
