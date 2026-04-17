@@ -1,0 +1,48 @@
+name: editorial_estate
+description: "The Editorial Estate — Premium Real Estate Discovery App"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+
+  # Navigation
+  go_router: ^14.2.7
+
+  # Dependency Injection
+  get_it: ^8.0.2
+
+  # Map
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # Fonts & Icons
+  google_fonts: ^6.2.1
+
+  # Images
+  cached_network_image: ^3.4.1
+
+  # UI Helpers
+  smooth_page_indicator: ^1.2.0
+  shimmer: ^3.0.0
+
+  # Utils
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  bloc_test: ^9.1.7
+  mocktail: ^1.0.4
+
+flutter:
+  uses-material-design: true
