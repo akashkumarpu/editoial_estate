@@ -38,7 +38,7 @@ lib/
     └── shell/           # Core navigation and layout
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ lib/
    flutter run
    ```
 
-### Screenshots
+## Screenshots
 
 <img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00 49 13" src="https://github.com/user-attachments/assets/48aff26a-e15b-493d-aac3-2c0fa7d04e22" />
 
