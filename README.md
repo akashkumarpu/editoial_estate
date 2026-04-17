@@ -63,6 +63,10 @@ lib/
    flutter run
    ```
 
----
+### Screenshots
 
-*Part of the Geodwelling Map series — Built with precision and style.*
+![onboarding1](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.13.png>)
+![Onboarding2](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.19.png>)
+![Explore](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.51.52.png>)
+![Listing](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.49.42.png>)
+![Profile](<Simulator Screenshot - iPhone 17 Pro - 2026-04-18 at 00.50.01.png>)
