@@ -50,8 +50,7 @@ lib/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd editorial_estate
+   git clone https://github.com/akashkumarpu/editoial_estate.git
    ```
 
 2. **Install dependencies**:
